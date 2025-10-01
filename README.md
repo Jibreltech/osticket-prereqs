@@ -45,7 +45,7 @@ We’ll begin by setting up a virtual machine (VM) in the Microsoft Azure portal
 <img <img width="227" height="248" alt="image" src="https://github.com/user-attachments/assets/153d816d-6058-4e65-af3a-408dfdf57818" />
 </p>
 <p>
-Once you’ve connected to your virtual machine, the next step is to install and extract the osTicket-Installation-Files folder. Once you have done that move the osTicket-Installation-Files folder to your desktop, and it should appear similar to the example shown in the image above.
+Once you’ve connected to your virtual machine, the next step is to install and extract the osTicket-Installation-Files folder. Once you have done that, move the osTicket-Installation-Files folder to your desktop, and it should appear similar to the example shown in the image above.
 We’re installing this folder because it contains all of the required files and resources needed to set up osTicket in one convenient location. Keeping everything organized in a single folder will make the installation process smoother and easier to follow.</p>
 <br />
 
