@@ -50,9 +50,9 @@ We’re installing this folder because it contains all of the required files and
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1128" height="591" alt="image" src="https://github.com/user-attachments/assets/c536992d-3dbb-444d-a7ca-5ef403cbb35e" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Next we are going to enable IIS. To enable IIS, start by opening the Control Panel on your computer. From there, go to Programs and select Uninstall a program. On the left-hand side of the window, click Turn Windows features on or off. A new window will appear with a list of optional Windows features. Scroll down until you find Internet Information Services (IIS), then check the box next to it.</p>
 <br />
