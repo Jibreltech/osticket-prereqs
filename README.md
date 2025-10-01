@@ -28,8 +28,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <h2>Installation Steps</h2>
+<img width="856" height="747" alt="Screenshot 2025-10-01 at 3 53 30 PM" src="https://github.com/user-attachments/assets/16f125f8-ea15-4319-a1fc-e18aa2e296a5" />
 
-<p>
+
+
+
+
+We’ll begin by setting up a virtual machine (VM) in the Microsoft Azure portal. A virtual machine provides an isolated environment that behaves like a real computer but runs in the cloud. This approach is safer and more practical than using your personal computer, since it allows you to test, configure, and experiment without affecting your main system.<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
