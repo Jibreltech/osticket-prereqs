@@ -56,3 +56,8 @@ We’re installing this folder because it contains all of the required files and
 <p>
 Next we are going to enable IIS. To enable IIS, start by opening the Control Panel on your computer. From there, go to Programs and select Uninstall a program. On the left-hand side of the window, click Turn Windows features on or off. A new window will appear with a list of optional Windows features. Scroll down until you find Internet Information Services (IIS), then check the box next to it.</p>
 <br />
+<img width="421" height="376" alt="image" src="https://github.com/user-attachments/assets/13c6c2ab-c1f8-4c39-8ad1-bfa74ee2b388" />
+
+
+
+Now that IIS is enabled, the next step is to install the CGI feature. To do this,  expand Internet Information Services by clicking the plus sign. Next, expand World Wide Web Services, and then expand Application Development Features. From there, locate CGI and check the box beside it. Once you’ve selected it, click OK to apply the changes.
