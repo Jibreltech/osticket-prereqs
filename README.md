@@ -76,3 +76,8 @@ Now that IIS and CGI are enabled, the next step is to install PHP Manager for II
 
 
 Next, we will install the Rewrite Module, which is required for proper URL handling in osTicket. To begin, open your osTicket installation files folder if you are not already there. Locate the file named rewrite_amd64_en-US.msi and double-click it to launch the installer. When the setup window appears, select Install to start the installation process. After it has finished, click Finish to close the installer.
+
+<img width="495" height="387" alt="image" src="https://github.com/user-attachments/assets/80a3b527-2007-43fe-98e2-bd68d6c2e87b" />
+
+
+Next we will install MySQL 5.5.62 simply open the osTicketInstallationFiles folder and double-click on MySQL-5.5.62-win32. The installer will launch, and you can proceed by clicking Next. When you reach the server setup screen, choose the Typical Setup option to ensure a standard installation. After selecting it, click Install and wait for the process to complete. When the installation finishes, a confirmation window will appear, similar to the image shown below. At this point, do not click Finish, as leaving this window open is essential for the next step in the setup process.
