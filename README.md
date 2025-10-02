@@ -61,3 +61,18 @@ Next we are going to enable IIS. To enable IIS, start by opening the Control Pan
 
 
 Now that IIS is enabled, the next step is to install the CGI feature. To do this,  expand Internet Information Services by clicking the plus sign. Next, expand World Wide Web Services, and then expand Application Development Features. From there, locate CGI and check the box beside it. Once you’ve selected it, click OK to apply the changes.
+
+
+
+<img width="499" height="405" alt="image" src="https://github.com/user-attachments/assets/e2471115-b784-4607-b097-367b872fb555" />
+
+
+
+
+
+Now that IIS and CGI are enabled, the next step is to install PHP Manager for IIS. This is important because osTicket runs on PHP, which is a server-side scripting language. Without PHP installed and configured, osTicket will not function properly. To begin, open your osTicket installation files folder and double-click the file named PHPManagerForIIS_V1.50. The installation wizard will launch, and you can proceed by clicking Next. When prompted, accept the license agreement by selecting I Agree. The installer will then begin setting up PHP Manager. Once the installation is complete, you should see a confirmation screen similar to the image above. At this point, you can click Close to finish the process.
+
+<img width="495" height="387" alt="image" src="https://github.com/user-attachments/assets/1f0cb826-31d0-4bcc-ac49-68d945d2a8d6" />
+
+
+Next, we will install the Rewrite Module, which is required for proper URL handling in osTicket. To begin, open your osTicket installation files folder if you are not already there. Locate the file named rewrite_amd64_en-US.msi and double-click it to launch the installer. When the setup window appears, select Install to start the installation process. After it has finished, click Finish to close the installer.
