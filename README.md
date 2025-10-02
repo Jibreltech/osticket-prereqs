@@ -80,3 +80,9 @@ Next, we will install the Rewrite Module, which is required for proper URL handl
 <img width="495" height="387" alt="image" src="https://github.com/user-attachments/assets/80a3b527-2007-43fe-98e2-bd68d6c2e87b" />
 
 Next we will install MySQL 5.5.62. Simply open the osTicketInstallationFiles folder and double-click on MySQL-5.5.62-win32. The installer will launch, and you can proceed by clicking Next. When you reach the server setup screen, choose the Typical Setup option to ensure a standard installation. After selecting it, click Install and wait for the process to complete. When the installation finishes, a confirmation window will appear, similar to the image shown below. At this point, do not click Finish, as leaving this window open is essential for the next step in the setup process.
+
+<img width="500" height="381" alt="image" src="https://github.com/user-attachments/assets/94ac9301-bea5-45c8-812f-04a9b7d41000" />
+
+
+
+Once the installation has finished, you’ll be prompted to launch the MySQL Configuration Wizard. Begin by clicking Finish in the Server Setup window. When the wizard opens, click Next to move forward. On the next screen, select Standard Configuration and continue by clicking Next. You’ll be asked to confirm again, so simply click Next once more. When you arrive at the Security Options screen, you’ll need to set up the username and password. For this tutorial, type ROOT as both the username and password. This approach is not secure and should never be used in a real-world environment, but it will keep things simple here and ensure there’s no confusion with credentials. After entering the details click Next, then choose Execute to apply the configuration.
