@@ -86,3 +86,11 @@ Next we will install MySQL 5.5.62. Simply open the osTicketInstallationFiles fol
 
 
 Once the installation has finished, you’ll be prompted to launch the MySQL Configuration Wizard. Begin by clicking Finish in the Server Setup window. When the wizard opens, click Next to move forward. On the next screen, select Standard Configuration and continue by clicking Next. You’ll be asked to confirm again, so simply click Next once more. When you arrive at the Security Options screen, you’ll need to set up the username and password. For this tutorial, type ROOT as both the username and password. This approach is not secure and should never be used in a real-world environment, but it will keep things simple here and ensure there’s no confusion with credentials. After entering the details click Next, then choose Execute to apply the configuration.
+
+<img width="959" height="58" alt="image" src="https://github.com/user-attachments/assets/f5455d2a-3ffd-4c85-adad-c0fa7f53f227" />
+
+Next, we’ll begin installing osTicket v1.15.8. Start by opening your osTicket-Installation-Files folder and locating the folder named osTicket-v1.15.8. Right-click on this folder and choose “Extract All”. When the extraction window opens, simply click Extract. A new folder will be created containing the extracted files. Open that folder, and you should see the same contents as the example shown in the image above.
+
+<img width="656" height="99" alt="image" src="https://github.com/user-attachments/assets/9e2168c9-7b14-4d06-9b7d-eaf966d34f12" />
+
+The next step is to move the Upload folder into the wwwroot directory and rename it to osTicket. To do this, open a new File Explorer window and navigate to your C: drive. From there, open the inetpub folder and then the wwwroot folder. Once inside wwwroot, return to your extracted osTicket-v1.15.8 files, locate the Upload folder, and drag it into the wwwroot directory. After the folder has been copied, right-click it, choose Rename, and change its name to osTicket.
