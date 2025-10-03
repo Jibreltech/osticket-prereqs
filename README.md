@@ -94,3 +94,11 @@ Next, we’ll begin installing osTicket v1.15.8. Start by opening your osTicket-
 <img width="656" height="99" alt="image" src="https://github.com/user-attachments/assets/9e2168c9-7b14-4d06-9b7d-eaf966d34f12" />
 
 The next step is to move the Upload folder into the wwwroot directory and rename it to osTicket. To do this, open a new File Explorer window and navigate to your C: drive. From there, open the inetpub folder and then the wwwroot folder. Once inside wwwroot, return to your extracted osTicket-v1.15.8 files, locate the Upload folder, and drag it into the wwwroot directory. After the folder has been copied, right-click it, choose Rename, and change its name to osTicket.
+
+<img width="1440" height="860" alt="image" src="https://github.com/user-attachments/assets/52bd523b-ab94-41a9-9771-71f6dbc6dfad" />
+
+ The next step is to bring up the osTicket site. Open IIS Manager and run as administrator. Once IIS is open, restart the server to apply the recent changes. After the restart, go to   to Sites-> Default Web Site -> osTicket. On the right-hand panel, select Browse *:80. This will launch the osTicket site in your browser.
+
+ <img width="828" height="747" alt="image" src="https://github.com/user-attachments/assets/4a0663e7-2526-44fd-a544-bf3ec4a69f54" />
+
+Great work! the osTicket site has successfully loaded! At this stage, you should see the site displayed in your browser, which should match the example image shown above. This confirms that your IIS configuration and installation steps were completed correctly, and osTicket is now ready for the next stage of setup.
