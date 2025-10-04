@@ -134,3 +134,39 @@ Next we will install HeidiSQL. Open File Explorer and navigate to the osticket-i
 
 
 Once the installation is complete, click Finish. In the Session Manager window, click New to begin setting up your connection. For both the username and password, enter root, then click Open to connect to the database.  Next right click Unnamed in the window then click Database. In the name field, type osTicket and confirm by clicking OK.
+
+
+
+
+<img width="807" height="328" alt="image" src="https://github.com/user-attachments/assets/62c20eaa-fc4c-4321-b737-6c226c191e45" />
+
+
+
+Next, we’ll continue the setup process in the browser. Simply enter the MySQL information as shown in the image above. 
+
+
+
+<img width="844" height="655" alt="image" src="https://github.com/user-attachments/assets/293da0e4-c265-46f9-b0c0-bfae0981b3aa" />
+
+
+
+
+
+Congratulations, osTicket is now installed!
+
+
+
+<img width="404" height="297" alt="image" src="https://github.com/user-attachments/assets/c9e413e2-97a8-4180-a8c2-9e66169ff0a2" />
+
+
+
+
+
+<img width="841" height="496" alt="image" src="https://github.com/user-attachments/assets/3ddef6c7-b473-4c78-829a-b261df796f95" />
+
+
+
+
+
+
+both the help desk login page and end user web page are functioning 
