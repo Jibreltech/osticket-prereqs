@@ -107,4 +107,4 @@ Great work! the osTicket site has successfully loaded! At this stage, you should
 <img width="1066" height="617" alt="image" src="https://github.com/user-attachments/assets/ac0d2768-9a25-4430-a0f2-7dd6cb54e719" />
 
 
- Now we are going to  enable some extensions. Open IIS Manager and navigate to Sites -> Default Web Site -> osTicket. In the features view, double-click PHP Manager, then click “Enable or Disable an Extension". Then find the extensions php_imap.dll, php_intl.dll, and php_opcache.dll. Right-click each one and select Enable. After you’ve enabled them, go back to your osTicket site in the browser, refresh the page, and you should notice the changes take effect.
+ Now we are going to  enable some extensions. Open IIS Manager and navigate to Sites -> Default Web Site -> osTicket. In the features view, double-click PHP Manager, then click “Enable or Disable an Extension". Then find the extensions php_imap.dll, php_intl.dll, and php_opcache.dll. Right-click each one and select Enable. After you’ve enabled them, go back to your osTicket site in the browser, refresh the page and you should notice the changes take effect.
