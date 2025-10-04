@@ -116,7 +116,7 @@ Great work! the osTicket site has successfully loaded! At this stage, you should
 
 
 
-Afterwards continue setting up osTicket in the browser by clicking continue. Then  name  helpdesk  Admin User account. Use the sample image above as a reference for filling in these details.
+Afterwards continue setting up osTicket in the browser by clicking continue. Then name the helpdesk and Admin User account. Use the sample image above as a reference for filling in these details.
 
 
 
