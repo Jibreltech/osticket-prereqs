@@ -152,21 +152,24 @@ Next, we’ll continue the setup process in the browser. Simply enter the MySQL 
 
 
 
-Congratulations, osTicket is now installed!
-
-
-
-<img width="404" height="297" alt="image" src="https://github.com/user-attachments/assets/c9e413e2-97a8-4180-a8c2-9e66169ff0a2" />
-
-
-
-
-
-<img width="841" height="496" alt="image" src="https://github.com/user-attachments/assets/3ddef6c7-b473-4c78-829a-b261df796f95" />
+Congratulations, osTicket is now installed! 
 
 
 
 
 
 
-both the help desk login page and end user web page are functioning 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
