@@ -108,3 +108,20 @@ Great work! the osTicket site has successfully loaded! At this stage, you should
 
 
  Now we are going to  enable some extensions. Open IIS Manager and navigate to Sites -> Default Web Site -> osTicket. In the features view, double-click PHP Manager, then click “Enable or Disable an Extension". Then find the extensions php_imap.dll, php_intl.dll, and php_opcache.dll. Right-click each one and select Enable. After you’ve enabled them, go back to your osTicket site in the browser, refresh the page and you should notice the changes take effect.
+
+
+
+<img width="833" height="771" alt="image" src="https://github.com/user-attachments/assets/20503d5e-a0e3-41f1-8cb3-ebb0d2ff4ab3" />
+
+
+
+
+Afterwards continue setting up osTicket in the browser by clicking continue. Then  name  helpdesk  Admin User account. Use the sample image above as a reference for filling in these details.
+
+
+
+<img width="598" height="464" alt="image" src="https://github.com/user-attachments/assets/bdfd75e4-398f-49ad-8c88-cdab3a047dfe" />
+
+
+
+Next we will install HeidiSQL. Open File Explorer and navigate to the osticket-installation-files folder. Inside this folder, look for the file named HeidiSQL_12.3.0.6589_setup and double-click it. When the setup window opens, accept the license agreement and continue by clicking Next through the prompts. Keep going until you reach the screen with the Install button, then click it to start the installation.
