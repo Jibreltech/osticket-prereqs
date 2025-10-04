@@ -102,3 +102,9 @@ The next step is to move the Upload folder into the wwwroot directory and rename
  <img width="828" height="747" alt="image" src="https://github.com/user-attachments/assets/4a0663e7-2526-44fd-a544-bf3ec4a69f54" />
 
 Great work! the osTicket site has successfully loaded! At this stage, you should see the site displayed in your browser, which should match the example image shown above. This confirms that your IIS configuration and installation steps were completed correctly, and osTicket is now ready for the next stage of setup.
+
+
+<img width="1066" height="617" alt="image" src="https://github.com/user-attachments/assets/ac0d2768-9a25-4430-a0f2-7dd6cb54e719" />
+
+
+ Now we are going to  enable some extensions. Open IIS Manager and navigate to Sites → Default Web Site → osTicket. In the features view, double-click PHP Manager, then click “Enable or Disable an Extension. Then  find the extensions php_imap.dll, php_intl.dll, and php_opcache.dll. Right-click each one and select Enable. After you’ve enabled them, go back to your osTicket site in the browser, refresh the page, and you should notice the changes take effect.
