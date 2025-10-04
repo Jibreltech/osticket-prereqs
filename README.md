@@ -142,7 +142,7 @@ Once the installation is complete, click Finish. In the Session Manager window, 
 
 
 
-Next, we’ll continue the setup process in the browser. Simply enter the MySQL information as shown in the image above. 
+Next, we’ll continue the setup process in the browser. Simply enter the MySQL information as shown in the image above. Then click install to install osticket
 
 
 
