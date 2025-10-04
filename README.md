@@ -125,3 +125,12 @@ Afterwards continue setting up osTicket in the browser by clicking continue. The
 
 
 Next we will install HeidiSQL. Open File Explorer and navigate to the osticket-installation-files folder. Inside this folder, look for the file named HeidiSQL_12.3.0.6589_setup and double-click it. When the setup window opens, accept the license agreement and continue by clicking Next through the prompts. Keep going until you reach the screen with the Install button, then click it to start the installation.
+
+
+
+
+<img width="936" height="593" alt="image" src="https://github.com/user-attachments/assets/caf917a1-3b5e-435e-bf36-9ac4b2e5dd60" />
+
+
+
+Once the installation is complete, click Finish. In the Session Manager window, click New to begin setting up your connection. For both the username and password, enter root, then click Open to connect to the database.  Next right click Unnamed in the window then click Database. In the name field, type osTicket and confirm by clicking OK.
